@@ -1,5 +1,3 @@
-package fuck_sangmin;
-
 public class Number13 {
     public static void main(String[] args) {
         // 1부터 99까지 반복

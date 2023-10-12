@@ -1,5 +1,3 @@
-package fuck_sangmin;
-
 public class Number9 {
     public static void main(String[] args) {
         // 4x4의 2차원 배열 생성

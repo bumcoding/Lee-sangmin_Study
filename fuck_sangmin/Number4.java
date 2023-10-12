@@ -1,5 +1,3 @@
-package fuck_sangmin;
-
 import java.util.Scanner;
 
 public class Number4 {
